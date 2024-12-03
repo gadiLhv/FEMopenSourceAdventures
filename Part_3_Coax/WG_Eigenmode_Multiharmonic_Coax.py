@@ -25,7 +25,7 @@ numModesToCalc = 5
 monToLoad = 0
 
 # Choose to display in-phase or quadrature
-whichPol = 0
+whichPol = 1
 
 mymesh = mesh("Coax.msh")
 
